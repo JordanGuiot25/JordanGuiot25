@@ -13,7 +13,7 @@ Je m'appelle Jordan, j'ai 18 ans.
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php) <-- je débute
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php) 
 - 🖥️ &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
