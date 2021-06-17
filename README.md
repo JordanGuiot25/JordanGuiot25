@@ -7,7 +7,7 @@ Je m'appelle Jordan, j'ai 18 ans.
 - 🧐 J'apprends le développement web en autodidacte.
 - ❤️ Passioné de jeux vidéo.
 - 🧠 CodingGame: [@RaiDail] (https://www.codingame.com/profile/acefe6d9b4133914e4eee5e909df7c776029014)
-- 📫 Le Havre.
+- 📫 Le Havre, val de Reuil.
 
 ###  &nbsp; Compétence
 - 🌐 &nbsp;
