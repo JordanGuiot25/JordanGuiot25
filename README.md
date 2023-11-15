@@ -1,13 +1,13 @@
 ### Salut toi bienvenue sur mon GitHub 👋
 
 ###  &nbsp;Qui suis-je ?
-Je m'appelle Jordan, j'ai 18 ans.
+Je m'appelle Jordan, j'ai 21 ans.
 
-- 🔭 Je recherche actuellement une alternance pour mon Bac+2 voir +3
+- 🔭 Détenteur d'un bac +2 Informatique
 - 🧐 J'apprends le développement web en autodidacte.
 - ❤️ Passioné de jeux vidéo.
 - 🧠 CodingGame: [@RaiDail] (https://www.codingame.com/profile/acefe6d9b4133914e4eee5e909df7c776029014)
-- 📫 Le Havre, val de Reuil.
+- 📫 Val de Reuil.
 
 ###  &nbsp; Compétence
 - 🌐 &nbsp;
